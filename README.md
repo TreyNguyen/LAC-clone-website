@@ -11,6 +11,6 @@ Included in this project are the following items: <br>
 
 # Contact info
 
-Trey Nguyen
-treynguyen5@gmail.com
-(611) 505-5817
+Trey Nguyen <br>
+treynguyen5@gmail.com <br>
+(611) 505-5817 <br>
